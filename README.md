@@ -29,4 +29,4 @@
 - 搭建Git服务器
 
 ### 总结
-create a new branch is quick.
+create a new branch is quick *AND* simple.
