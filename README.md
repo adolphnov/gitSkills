@@ -29,8 +29,8 @@
 - 搭建Git服务器
 
 ### 总结
-<<<<<<< HEAD
+
 create a new branch is quick & simple.
-=======
+
 create a new branch is quick and simple.
->>>>>>> feature1
+
